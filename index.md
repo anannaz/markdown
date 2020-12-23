@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Anannaz GitHub Page
 
 You can use the [editor on GitHub](https://github.com/anannaz/markdown/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
